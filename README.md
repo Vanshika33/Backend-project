@@ -39,7 +39,7 @@ The project follows a standard Spring Boot project structure:
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/yourusername/course-management.git
+    git clone https://github.com/Vanshika33/Backend-project/edit/main/ 
     cd course-management
     ```
 
